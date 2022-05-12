@@ -101,7 +101,7 @@ From the above characteristic table, we can directly write the next state equati
 Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
-### Procedure
+### PROCEDURE
 ### Step 1:
 Open Quartus II and select new project and choose the file location.
 
@@ -119,6 +119,7 @@ At the end give endmodule.
 
 ### Step 6:
 Run the program and choose RTL viewer to get RTL realization.
+
 ### PROGRAM 
 ```
 /*
@@ -195,4 +196,11 @@ endmodule
 ### TIMING DIGRAMS FOR FLIP FLOPS
 ![dt](https://user-images.githubusercontent.com/93427278/168056665-bc45066b-b463-4fcd-be1f-bfe1946c744d.png)
 
+## T(TOGGLE) FLIPFLOP
+### RTL LOGIC FOR FLIPFLOPS
+![timg](https://user-images.githubusercontent.com/93427278/168082942-a1fdf034-4066-4ebe-84b5-465e4d0cd763.png)
+### TIMING DIGRAMS FOR FLIP FLOPS
+![tt](https://user-images.githubusercontent.com/93427278/168082976-f8373870-cba1-41d0-8351-365df6c90359.png)
+
 ### RESULTS 
+All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
