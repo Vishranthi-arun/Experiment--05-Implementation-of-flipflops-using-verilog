@@ -175,7 +175,7 @@ nand(Qbar,Y,Q);
 endmodule
 ```
 
-# OUTPUT
+## OUTPUT
 ## SR FLIP FLOP
 ### RTL LOGIC FOR FLIPFLOPS 
 ![srimg](https://user-images.githubusercontent.com/93427278/168056076-e96a93e1-e62d-4459-8bec-234226dc78bc.png)
@@ -201,4 +201,4 @@ endmodule
 ![tt](https://user-images.githubusercontent.com/93427278/168082976-f8373870-cba1-41d0-8351-365df6c90359.png)
 
 ### RESULTS 
-All the flipflops are implementde using verilog and their functionality has been validated using their functional tables.
+All the flipflops are implemented using verilog and their functionality has been validated using their functional tables.
